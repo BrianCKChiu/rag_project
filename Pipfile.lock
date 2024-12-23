@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e594999ff372d088081c36f2aa2a7261ab3a09fefb73a6b36071e94905eadfd5"
+            "sha256": "308141321e67a8923a3baea0c453381ae366920fe81da8509d5be6ed8babf498"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -304,15 +304,6 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==1.9.0"
-        },
-        "fastapi": {
-            "hashes": [
-                "sha256:9ec46f7addc14ea472958a96aae5b5de65f39721a46aaf5705c480d9a8b76654",
-                "sha256:e9240b29e36fa8f4bb7290316988e90c381e5092e0cbe84e7818cc3713bcf305"
-            ],
-            "index": "pypi",
-            "markers": "python_version >= '3.8'",
-            "version": "==0.115.6"
         },
         "filetype": {
             "hashes": [
@@ -1666,14 +1657,6 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.0.36"
-        },
-        "starlette": {
-            "hashes": [
-                "sha256:0e4ab3d16522a255be6b28260b938eae2482f98ce5cc934cb08dce8dc3ba5835",
-                "sha256:44cedb2b7c77a9de33a8b74b2b90e9f50d11fcf25d8270ea525ad71a25374ff7"
-            ],
-            "markers": "python_version >= '3.8'",
-            "version": "==0.41.3"
         },
         "tenacity": {
             "hashes": [

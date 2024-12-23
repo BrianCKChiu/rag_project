@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-fastapi = "*"
+
 llama-index-llms-openai = "*"
 langchain-openai = "*"
 python-dotenv = "*"
