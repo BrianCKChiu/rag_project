@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+llama-index-llms-openai = "*"
+langchain-openai = "*"
+python-dotenv = "*"
+langchain-text-splitters = "*"
+langchain-community = "*"
+langgraph = "*"
+beautifulsoup4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
